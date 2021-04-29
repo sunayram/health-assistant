@@ -1,0 +1,70 @@
+{
+  "id": "ccbeff7f-aaf5-4de3-a8b3-258583aec4c8",
+  "parentId": "d79bd0ea-c0b4-4c46-a4fa-034b0c8c09ba",
+  "rootParentId": "e29faa47-c8ef-48ae-95d5-39342ed7b1d3",
+  "name": "choice.flu - yes - yes",
+  "auto": true,
+  "contexts": [
+    "choiceflu-yes-followup",
+    "await_choice"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "choiceflu.choiceflu-yes.choiceflu-yes-yes",
+      "affectedContexts": [
+        {
+          "name": "await_choice",
+          "lifespan": 5
+        },
+        {
+          "name": "choiceflu-yes-yes-followup",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "do you have stomach pain and vomiting?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "hi",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "te",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

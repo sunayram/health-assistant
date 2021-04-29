@@ -1,0 +1,28 @@
+[
+  {
+    "id": "321231bc-48e5-403d-87fb-7d6ad394189e",
+    "data": [
+      {
+        "text": "1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "84d88d1d-84b0-49e7-804c-a2f96ee13810",
+    "data": [
+      {
+        "text": "flu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,70 @@
+{
+  "id": "aa8d036d-0a5d-4774-b3f7-36f1d0e13bc3",
+  "parentId": "ccbeff7f-aaf5-4de3-a8b3-258583aec4c8",
+  "rootParentId": "e29faa47-c8ef-48ae-95d5-39342ed7b1d3",
+  "name": "choice.flu - yes - yes - no",
+  "auto": true,
+  "contexts": [
+    "await_choice",
+    "choiceflu-yes-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "choiceflu.choiceflu-yes.choiceflu-yes-yes.choiceflu-yes-yes-no",
+      "affectedContexts": [
+        {
+          "name": "await_choice",
+          "lifespan": 5
+        },
+        {
+          "name": "choiceflu-yes-yes-no-followup",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "please drink plenty of water and avoid cold items"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "hi",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "te",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

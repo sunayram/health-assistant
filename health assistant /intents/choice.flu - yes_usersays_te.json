@@ -1,0 +1,119 @@
+[
+  {
+    "id": "d5dc61b3-3f0a-4cef-a7c6-9baa810dc2b2",
+    "data": [
+      {
+        "text": "అవును",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "te",
+    "updated": 0
+  },
+  {
+    "id": "80853538-19ae-4187-bf96-5cdb94aa57b3",
+    "data": [
+      {
+        "text": "దీన్ని చెయ్యి",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "te",
+    "updated": 0
+  },
+  {
+    "id": "40348e2a-7c17-431c-a108-7f0d0b568acd",
+    "data": [
+      {
+        "text": "తప్పకుండా చెయ్యి",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "te",
+    "updated": 0
+  },
+  {
+    "id": "cf18e96b-0e30-47b8-b421-934a186c61fc",
+    "data": [
+      {
+        "text": "ఖచ్చితంగా చెయ్యి",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "te",
+    "updated": 0
+  },
+  {
+    "id": "5b2f1f48-89ba-487e-b539-9e2d9283e62f",
+    "data": [
+      {
+        "text": "నిర్ధారించు",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "te",
+    "updated": 0
+  },
+  {
+    "id": "ac855859-59e4-49ec-a0ed-8af030c2d604",
+    "data": [
+      {
+        "text": "బాగుంది",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "te",
+    "updated": 0
+  },
+  {
+    "id": "30f80586-52a5-4c00-b248-acb8194c08ff",
+    "data": [
+      {
+        "text": "అది సరైనది",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "te",
+    "updated": 0
+  },
+  {
+    "id": "0059132f-6d7d-46d6-a868-6662b8944891",
+    "data": [
+      {
+        "text": "నాకు అవసరం లేదు",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "te",
+    "updated": 0
+  },
+  {
+    "id": "f96a905a-99a6-4de4-a220-f56f2efcd1e5",
+    "data": [
+      {
+        "text": "నేను ఏకీభవిస్తున్నాను",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "te",
+    "updated": 0
+  }
+]

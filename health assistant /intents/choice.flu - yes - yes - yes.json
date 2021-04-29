@@ -1,0 +1,70 @@
+{
+  "id": "c4c4bf08-7c34-4e96-a888-89dff63ce40a",
+  "parentId": "ccbeff7f-aaf5-4de3-a8b3-258583aec4c8",
+  "rootParentId": "e29faa47-c8ef-48ae-95d5-39342ed7b1d3",
+  "name": "choice.flu - yes - yes - yes",
+  "auto": true,
+  "contexts": [
+    "await_choice",
+    "choiceflu-yes-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "choiceflu.choiceflu-yes.choiceflu-yes-yes.choiceflu-yes-yes-yes",
+      "affectedContexts": [
+        {
+          "name": "choiceflu-yes-yes-yes-followup",
+          "lifespan": 5
+        },
+        {
+          "name": "await_choice",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "you may have a very dangerous problem,i can help you to fix and appointment with the doctor"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "hi",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "te",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

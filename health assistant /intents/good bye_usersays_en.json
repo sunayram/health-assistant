@@ -1,0 +1,28 @@
+[
+  {
+    "id": "009016c8-1ec1-40e2-89d9-a377e2c39ef2",
+    "data": [
+      {
+        "text": "good bye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9493b54d-f9a4-4066-bff6-1e135e9fa320",
+    "data": [
+      {
+        "text": "thank you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
